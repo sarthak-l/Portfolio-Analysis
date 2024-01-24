@@ -10,8 +10,7 @@ The dataset `portfolio_data.csv` includes daily prices of AMZN, DPZ, BTC, and NF
 1. **Time Series Analysis**: Average price of each asset per year.
 2. **Volatility Analysis**: Variance (as a proxy for volatility) of each asset.
 3. **Growth Analysis**: Comparison of initial and final prices to determine the growth rate.
-4. **Correlation Analysis**: (Note: Due to SQLite limitations, correlation analysis is better performed using a tool that supports such calculations, like Python.)
-
+4. **Correlation Analysis**: 
 ## SQL Queries
 The SQL queries used in this project are included in the `portfolio_analysis.sql` file.
 
