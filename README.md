@@ -25,7 +25,6 @@ In addition to the SQL analysis, this project employs Tableau for creating inter
    - **Time Series Analysis**: Line charts for each asset's price trends.
    - **Volatility Analysis**: Bar charts depicting the volatility of each asset.
    - **Growth Analysis**: Bar charts showing the growth of each asset.
-   - **Correlation Analysis**: Heat maps or scatter plots for asset correlations (if calculated).
 4. **Interactive Dashboard**: A comprehensive dashboard was created in Tableau, combining all visualizations for an interactive data exploration experience.
 
 ## Setup
