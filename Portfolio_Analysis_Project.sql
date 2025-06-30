@@ -4,7 +4,7 @@
 -- Time Series Analysis
 -- This query calculates the average price of each asset (AMZN, DPZ, BTC, NFLX) per year.
 SELECT 
-    strftime('%Y', Date) AS Year, 
+    substr(Date, length(Date) - 3, 4) AS Year,
     AVG(AMZN) AS Average_AMZN, 
     AVG(DPZ) AS Average_DPZ, 
     AVG(BTC) AS Average_BTC, 
