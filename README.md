@@ -4,7 +4,7 @@
 This project involves analyzing a portfolio containing stock prices for Amazon (AMZN), Domino's Pizza (DPZ), Bitcoin (BTC), and Netflix (NFLX) using SQL and Tableau. The analysis includes time series, volatility, and growth anlaysis.
 
 ## Data
-The dataset `portfolio_data.csv` includes daily prices of AMZN, DPZ, BTC, and NFLX, along with the date for each entry.
+The dataset `portfolio_data.xlsx` includes daily prices of AMZN, DPZ, BTC, and NFLX, along with the date for each entry.
 
 ## Analysis Performed
 1. **Time Series Analysis**: Average price of each asset per year.
@@ -12,7 +12,7 @@ The dataset `portfolio_data.csv` includes daily prices of AMZN, DPZ, BTC, and NF
 3. **Growth Analysis**: Comparison of initial and final prices to determine the growth rate.
 
 ## SQL Queries
-The SQL queries used in this project are included in the `portfolio_analysis.sql` file.
+The SQL queries used in this project are included in the `Portfolio_Analysis_Project.sql` file.
 
 ## Data Visualization with Tableau
 
